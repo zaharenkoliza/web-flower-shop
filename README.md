@@ -1,2 +1,1 @@
-# web-4
-https://docs.google.com/spreadsheets/d/1Po4f5PKvoEsq5sWDOv0Kf1UvTPXUN1Ua6DANzxglMvM/edit#gid=0&range=L66
+Этот проект был написан давно и для отработки навыков вёрстки на HTML и CSS, а также для изучения языка PHP, базовой механики создания авторизации, кабинета пользователя.
